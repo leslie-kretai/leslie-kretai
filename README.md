@@ -3,7 +3,7 @@
 `Preferred name: Leslie`
 
 I'm a Primary Care Paramedic from Canada.
-I like to write open source code as a hobby and to fix technology issues I encounter in my field.
+I like to write open source code as a hobby and to try and fix problems I encounter in my field.
 
 <!--
 ## 🔭 Current Work
