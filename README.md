@@ -10,7 +10,7 @@ I like to write open source code as a hobby and to try and fix problems I encoun
 
 - [Briefly describe your current work and projects here]
 -->
-## 🌱 Currently Learning
+## 📘 Currently Learning
 
 - Rust
 - C
