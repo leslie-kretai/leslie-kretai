@@ -19,6 +19,7 @@ I like to write open source code as a hobby and to try and fix problems I encoun
 - Vue
 - React
 - Elixir
+- Machine Learning
 <!--
 ## 💬 Ask me about
 
