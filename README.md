@@ -34,5 +34,7 @@ I like to write open source code as a hobby and to try and fix problems I encoun
 - [Share a fun fact about yourself]
 -->
 
+If I made something you like and you want me to work on it more; feel free to [buy me a coffee](https://www.buymeacoffee.com/lacikretai).
+
 Thanks for stopping by!
 
