@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-I'm Laci Krétai (Pronounced Lawt-si cree-tay), although I just go by Leslie. I'm a Primary Care Paramedic from Canada. I like to write open source code as a hobby and to fix technology issues I encounter in my field. Welcome to my GitHub profile!
+I'm Laci Krétai (Pronounced Lawt-si cree-tay), although I just go by Leslie. 
+I'm a Primary Care Paramedic from Canada.
+I like to write open source code as a hobby and to fix technology issues I encounter in my field.
+
 <!--
 ## 🔭 Current Work
 
 - [Briefly describe your current work and projects here]
 -->
-
 ## 🌱 Currently Learning
 
 - Rust
