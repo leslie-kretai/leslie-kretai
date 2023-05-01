@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi there, my name is Laci Krétai 👋
+`Pronounciation: Lawt-si cree-tay`
+`Preferred name: Leslie`
 
-I'm Laci Krétai `Pronounced: Lawt-si cree-tay`, although I just go by Leslie. 
 I'm a Primary Care Paramedic from Canada.
 I like to write open source code as a hobby and to fix technology issues I encounter in my field.
 
